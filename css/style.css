@@ -103,3 +103,13 @@ body {
   background-color: #dd0014;
   color: white;
 }
+
+.promotion-box img {
+    max-width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .col-mobile {
+    padding-bottom: 30px;
+  }
+}
