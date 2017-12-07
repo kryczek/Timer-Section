@@ -3,7 +3,7 @@ body {
 }
 
 
-.promotion-box {
+.container.promotion-box {
   border: 3px solid #ff0000;
   background-color: #ffffff;
   border-radius: 30px;
