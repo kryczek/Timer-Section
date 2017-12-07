@@ -33,6 +33,11 @@ body {
   line-height: 22px;
 }
 
+.row.timer {
+  padding-top: 70px;
+  text-align: center;
+}
+
 .time-name {
   display: block;
   color: gray;
