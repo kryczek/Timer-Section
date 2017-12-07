@@ -18,7 +18,7 @@ body {
 
 .container.promotion-box::before{
   content: 'Promocja dnia';
-  color: #ccc;
+  color: gray;
   font-size: 18px;
   text-transform: uppercase;
   background: white;
