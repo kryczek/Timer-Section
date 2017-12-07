@@ -2,6 +2,20 @@ body {
   margin-top: 50px;
 }
 
+
+.promotion-box {
+  border: 3px solid #ff0000;
+  background-color: #ffffff;
+  border-radius: 30px;
+  width:100%;
+  max-width: 1170px;
+  min-height: 200px;
+  margin: 27px auto;
+  padding: 25px;
+  text-align: left;
+  font-family: Roboto, Helvetica Neue, Arial, sans-serif;
+}
+
 .button-promocja {
   background-color: #cc0214;
   text-decoration: none;
